@@ -1,0 +1,12 @@
+9: Hello
+14: Signing
+34: is
+276: out
+398: in
+425: Vault
+760: Signin
+852: the
+936: World
+953: This
+
+combination:[0, 8, 3, 9, 7, 5, 6, 4, 1, 2]
